@@ -1,1 +1,1 @@
-# Smartmedicalchatbot
+# Smart medical chatbot
